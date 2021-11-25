@@ -3,9 +3,11 @@ Repository for the models and software developed for the Milan pilot
 
 * This is repo is configured to work on the Telegram bot: https://t.me/DyneMilanPilotBot
 
-# How to use it
+# How to use the Telegram bot
 
 clone the repo, then run:
+
+* cd Foody\ Zero\ Waste/telegram-bot/
 * npm install
 * node index.js
 
