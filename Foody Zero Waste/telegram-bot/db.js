@@ -8,7 +8,7 @@ var db = {
 
 	users : [
 	    {name: "RECUP", tg_id: "", reflow_id: "01FKNV3D8T0CBC8SYASJASRSS6", role: "admin"},
-	    {name: "vcuculo", tg_id: 15705654, reflow_id: "", role: "admin"},
+	    {name: "BARIO_Andrea", tg_id: 462144680, reflow_id: "", role: "admin"},
 	    {name: "Croce Rossa Italiana", tg_id: "", reflow_id: "01FKQVX0JNWE9QNX437SKTPSTM", role: "user"}
 	],
 

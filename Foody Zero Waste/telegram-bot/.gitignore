@@ -128,4 +128,4 @@ dist
 # SvelteKit build / generate output
 .svelte-kit
 
-secrets.js
+# secrets.js
