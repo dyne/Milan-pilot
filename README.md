@@ -3,6 +3,13 @@ Repository for the models and software developed for the Milan pilot
 
 * This is repo is configured to work on the Telegram bot: https://t.me/DyneMilanPilotBot
 
+# How to use it
+
+clone the repo, then run:
+* npm install
+* node index.js
+
+
 # License Note
 From Reflow's Consortium Agreement, Art. 9.2.8:
 
